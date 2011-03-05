@@ -1,0 +1,58 @@
+WARNING: no script file cmudict.ded
+
+Dictionary Usage Statistics
+---------------------------
+  Dictionary    TotalWords WordsUsed  TotalProns PronsUsed
+     cmudict    129564     129564     129581     129581
+        dict    129564     129564     129581     129581
+
+129564 words required, 0 missing
+
+New Phone Usage Counts
+---------------------
+  1. ax    : 61110
+  2. sp    : 129579
+  3. ey    : 12891
+  4. z     : 26439
+  5. f     : 13240
+  6. ao    : 10842
+  7. r     : 44579
+  8. t     : 38722
+  9. uw    :  9360
+ 10. w     :  8641
+ 11. ah    :  7635
+ 12. n     : 58742
+ 13. ih    : 17966
+ 14. p     : 18990
+ 15. l     : 47874
+ 16. aa    : 23769
+ 17. b     : 20220
+ 18. er    : 28202
+ 19. g     : 13142
+ 20. k     : 41126
+ 21. s     : 48721
+ 22. eh    : 26548
+ 23. th    :  2813
+ 24. m     : 28409
+ 25. d     : 27158
+ 26. v     : 10403
+ 27. iy    : 33069
+ 28. ae    : 20991
+ 29. ow    : 18210
+ 30. dx    : 12300
+ 31. ix    : 30981
+ 32. ng    :  9518
+ 33. sh    :  8436
+ 34. hh    :  9024
+ 35. aw    :  3215
+ 36. ay    : 10925
+ 37. jh    :  6181
+ 38. y     :  4914
+ 39. ch    :  4804
+ 40. zh    :   541
+ 41. uh    :  2164
+ 42. dh    :   563
+ 43. oy    :  1220
+ 44. sil   :     2
+
+Dictionary dict created
